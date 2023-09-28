@@ -3,3 +3,7 @@ function sayHello(){
 }
 
 sayHello();
+
+function sayGoodbye(fname){
+    console.log("Näkemiin "+fname);
+}
