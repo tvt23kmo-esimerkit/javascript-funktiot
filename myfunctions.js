@@ -7,3 +7,5 @@ sayHello();
 function sayGoodbye(fname){
     console.log("Näkemiin "+fname);
 }
+
+sayGoodbye("Teppo");
